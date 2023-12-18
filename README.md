@@ -1,33 +1,33 @@
 # Description 
 In this nural style  transfer  method we are going to take in style of 2 different images and combine it with a qr code to execute  new artistic qr  code 
-<br> this diagrams details you how the model exection can take place for a nural style transfer 
-<img src="demos/nst_model.png" width="180" />
+<br> this diagrams details you how the model exection can take place for a nural style transfer <br>
+<img src="demos/nst_model.png" width="500" />
 <br>
-The pipeline of the proposed methodology is as follows:
-<img src="demos/dr-method.png" width="180" />
-<br> <p><img src="demos/screenshot method.png" width="180" />
-<img src="demos/dr-method1.png" width="180" />
-<img src="demos/dr-method2.png" width="180" />
+The pipeline of the proposed methodology is as follows:<br>
+<img src="demos/dr-method.png" width="500" />
+<br> <p><img src="demos/screenshot method.png" width="300" height = "300" />
+<img src="demos/dr-method1.png" width="300" height = "300" />
+<img src="demos/dr-method2.png" width="300" height = "300" />
  </p>
 <br>
 
 To begin with, the results of comparison with existing NST (Neural Style Transfer) techniques or QR code generation methods are as follows.
-<p><img src="demos/model-execution.png" width="180" />
-<img src="demos/model-runnin.png" width="180" />
+<p><img src="demos/model-execution.png" width="350" height = "200" />
+<img src="demos/model-runnin.png" width="300" height = "200" />
 </p>
 Comparing Ours with the others, the generated results are of lesser quality than the existing NST examples, and do not produce a large amount of point-like noise as compared to existing art-like QR code generation methods.
-
+<br>
 <br>
 About the success probability of reading
 
 For the generated image, the following results are obtained when the image is displayed on the screen in three sizes (3cm x 3cm, 5cm x 5cm, and 7cm x 7cm) and scanned at a distance of 20cm. This table shows the average number of successful scans for 50 scans of 30 QR codes using each mobile device (successful decoding within 3 seconds is considered successful).
-In general, the success rate is at least 96%, indicating that the proposed method is robust enough to be effective in real applications. (Even when the scan failed, the read seemed to succeed although it took more than 3 seconds to complete.)
-<img src="demos/successprob.png" width="180" />
+In general, the success rate is at least 96%, indicating that the proposed method is robust enough to be effective in real applications. (Even when the scan failed, the read seemed to succeed although it took more than 3 seconds to complete.)<br>
+<img src="demos/successprob.png" width="300" height = "300" />
 
 <br>
 
-The results of the comparison with the existing method when changing the distance and angle and η  are shown in the following figure.
-<img src="demos/nparameteer.png" width="180" />
+The results of the comparison with the existing method when changing the distance and angle and η  are shown in the following figure.<br>
+<img src="demos/nparameteer.png" width="300" height = "300" />
 <br>
 
 
@@ -35,10 +35,12 @@ Pytorch implementation of [Image Style Transfer Using Convolutional Neural Netwo
 
 
 
+<br><br><br>
+
 <table>
   
 <tr>
-   <td align="center">Style&Content</td>
+   <td align="center">Style</td>
    <td align="center">Output</td> 
 </tr>
  
@@ -163,6 +165,3 @@ edit the image locaction, set epoch , style_weight and model_size
 
 ### References and credits 
 * for the usage assets and models , follow <a href="https://arxiv.org/pdf/2011.07815v1.pdf">documentation</a>
-
-### Owner / author 
-~~~Devesh 
