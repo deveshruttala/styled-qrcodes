@@ -22,7 +22,7 @@ we can view the following output from the results:
 
 <tr>
  <td height="250" width="280" align="center"><div align=center><img src="images/candy.jpg" width="230" /></td>
- <td rowspan="2" align="center" width="550" height="550"><img src="images/output4.jpg" width="500" /></td>
+ <td rowspan="2" align="center" width="550" height="550"><img src="images/output4.png" width="500" /></td>
 </tr>
 <tr height="250">
   <td align="center" width="280"><div align=center><div align=center><img src="images/deveshqr.png" width="230" /></td> 
@@ -41,11 +41,12 @@ we can view the following output from the results:
 
 to use this just import the nural_style_transfer_qrcodes.ipynb file into colab notebook and then upload images in the content directory and change the code to show your modelling images 
 
-use different images to style your qr and get some amazing outputs like these
-<img src="images/output2.jpg" width="230" />
-<br>
-<img src="images/output3.jpg" width="230" />
+use different images to style your qr and get some amazing outputs like these <br>
+<p><img src="images/output2.jpg" width="230" />
 
+
+<img src="images/output3.png" width="230" />
+</p>
 
 #### credits 
 images are used from the artcoder github repo  
