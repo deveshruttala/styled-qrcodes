@@ -106,7 +106,7 @@ Pytorch implementation of [Image Style Transfer Using Convolutional Neural Netwo
 
 * Clone this repo:
 ```
-    git clone - the branch : 
+    git clone [- the branch : ](https://github.com/deveshruttala/styled-qrcodes.git)
     cd ArtCoder
 ```
 * Install PyTorch and other dependencies.
