@@ -1,11 +1,11 @@
 # Styled and Artistic QR-codes
 <br>
-This is a project where we are going to make styled and artistic qr codes with the help of machine learning models 
-<br> <img src="assets/artisticqr.jpg" width="500" height = "250" align = "center" />
+This is a project where we are going to make styled and artistic qr codes with the help of machine learning models <br>
+<br> <p  align = "center" >  <img src="assets/artisticqr.jpg" width="600" height = "250" align = "center" /> </p>
 <br>
 
 ## Introduction 
-<br> See these amazing qr codes the are generated with the help of machine learning models <p>
+<br> See these amazing qr codes the are generated with the help of machine learning models <br> <p>
 <img src="assets/tutorial-1.png" width="250" height = "250"  /> <img src="assets/qrCode (1).png" width="250" height = "250"  /> <img src="assets/qrCode (2).png" width="250" height = "250" />
 
 
@@ -17,8 +17,8 @@ Modern image creation methods, such as ControlNets and Stable Diffusion or nural
 
 
 <br>
-
-<img src="assets/new.jpeg" width="500" height = "500" align = "center" />
+<p  align = "center" >
+<img src="assets/new.jpeg" width="650" height = "250" align = "center" /> </p>
 
 ## Documentation  
 
@@ -45,7 +45,7 @@ with the help of nural style tranfer here we could alter the qr codes from the b
 </table>
 
 From the above we can see how the qr image have take in the style of the base image and resulted in in a new styled one 
-<br>
+<br><br>
 To know futher in detail  and use the model for qr code creation <a href="https://github.com/deveshruttala/styled-qrcodes.git">follow</a>
 
 ```
@@ -73,7 +73,7 @@ git clone --branch https://github.com/deveshruttala/styled-qrcodes.git
 <br>
 With the help of enchanced prompt and code image correction techniques we are result the output 
 
-<br>
+<br><br>
 
 To know futher in detail and use the model for qr code creation <a href="https://github.com/deveshruttala/styled-qrcodes.git">follow</a>
 
@@ -102,7 +102,7 @@ git clone --branch https://github.com/deveshruttala/styled-qrcodes.git
 
 </table>
 
-<br>
+<br><br>
 
 To know futher in detail and use the model for qr code creation <a href="https://github.com/deveshruttala/styled-qrcodes.git">follow</a>
 
@@ -123,15 +123,13 @@ To get effective outcomes with generative AI applications, as with most other ap
 <br>
 <br>
 
-I thank you reading! keep making qr codes like these 
+I thank you reading! keep making some amazing QR codes 
 <br> <p>
-<img src="assets/tutorial-2.png" width="500" height = "500"  /> <img src="assets/qrCode (3).png" width="500" height = "500"  />  <img src="assets/tutorial-3.png" width="500" height = "500" />
+<img src="assets/tutorial-2.png" width="250" height = "250"  /> <img src="assets/qrCode (3).png" width="250" height = "250"  />  <img src="assets/tutorial-3.png" width="250" height = "250" />
 </p>
 
 Credits: artcoder, DionTimmer
 <br>
 <br><br>
-Owner : <a href="https://github.com/deveshruttala"> 
- #### Devesh
- </a>
+Owner : <a href="https://github.com/deveshruttala">  #### Devesh  </a>
 
