@@ -5,12 +5,11 @@ This is a project where we are going to make styled and artistic qr codes with t
 <br>
 
 ## Introduction 
-<br> See these amazing qr codes the are generated with the help of machine learning models 
-<img src="assets/tutorial-1.png" width="250" height = "250"  />
+<br> See these amazing qr codes the are generated with the help of machine learning models <p>
+<img src="assets/tutorial-1.png" width="250" height = "250"  /> <img src="assets/qrCode (1).png" width="250" height = "250"  /> <img src="assets/qrCode (2).png" width="250" height = "250" />
 
-<img src="assets/qrCode (1).png" width="250" height = "250"  />
 
-<img src="assets/qrCode (2).png" width="250" height = "250" />
+ </p>
 <br>
 Since they first came into being decades ago, QR codes have been a great way to share material, including URLs. Although they might be helpful, their appearance is set in stone, resulting in a plethora of bland, colorless QR codes.<br>
 That is going to change, though.<br>
@@ -125,12 +124,9 @@ To get effective outcomes with generative AI applications, as with most other ap
 <br>
 
 I thank you reading! keep making qr codes like these 
-<br> 
-<img src="assets/tutorial-2.png" width="500" height = "500"  />
-
-<img src="assets/qrCode (3).png" width="500" height = "500"  />
-
-<img src="assets/tutorial-3.png" width="500" height = "500" />
+<br> <p>
+<img src="assets/tutorial-2.png" width="500" height = "500"  /> <img src="assets/qrCode (3).png" width="500" height = "500"  />  <img src="assets/tutorial-3.png" width="500" height = "500" />
+</p>
 
 Credits: artcoder, DionTimmer
 <br>
