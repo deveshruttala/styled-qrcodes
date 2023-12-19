@@ -1,16 +1,16 @@
 # Styled and Artistic QR-codes
 <br>
 This is a project where we are going to make styled and artistic qr codes with the help of machine learning models 
-<br> <img src="assets/artisticqr.webp" width="500" height = "500" align = "center" />
+<br> <img src="assets/artisticqr.jpg" width="500" height = "250" align = "center" />
 <br>
 
 ## Introduction 
 <br> See these amazing qr codes the are generated with the help of machine learning models 
-<img src="assets/tutorial-1.png" width="500" height = "500"  />
+<img src="assets/tutorial-1.png" width="250" height = "250"  />
 
-<img src="assets/qrCode (1).png" width="500" height = "500"  />
+<img src="assets/qrCode (1).png" width="250" height = "250"  />
 
-<img src="assets/qrCode (2).png" width="500" height = "500" />
+<img src="assets/qrCode (2).png" width="250" height = "250" />
 <br>
 Since they first came into being decades ago, QR codes have been a great way to share material, including URLs. Although they might be helpful, their appearance is set in stone, resulting in a plethora of bland, colorless QR codes.<br>
 That is going to change, though.<br>
