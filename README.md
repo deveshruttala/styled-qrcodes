@@ -128,8 +128,9 @@ I thank you reading! keep making some amazing QR codes
 <img src="assets/tutorial-2.png" width="250" height = "250"  /> <img src="assets/qrCode (3).png" width="250" height = "250"  />  <img src="assets/tutorial-3.png" width="250" height = "250" />
 </p>
 
-Credits: artcoder, DionTimmer
+* Credits: artcoder, DionTimmer
+* View the repo branches to know in detail of this project and how to make artistic qr codes 
 <br>
-<br><br>
-Owner : <a href="https://github.com/deveshruttala">  #### Devesh  </a>
+<br>
+Owner : <a href="https://github.com/deveshruttala">  #### Devesh  </a> 
 
